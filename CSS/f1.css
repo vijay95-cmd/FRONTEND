@@ -1,0 +1,17 @@
+h1{
+    color: red;
+}
+p {
+      color: rgb(182, 226, 202);
+}
+button{
+    background-color: rgb(159, 79, 30);
+    color: #7c1642;
+}
+body{
+    background-color: rgb(34, 17, 134);
+}
+p {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+
+}

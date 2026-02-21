@@ -1,0 +1,17 @@
+body {
+  background-color: #bd9924; /* Light yellow for softness */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 80vw;
+  padding: 20px;
+  background-color: #ffbb64; /* Soft orange background for the typing area */
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
